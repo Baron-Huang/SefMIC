@@ -1,4 +1,4 @@
-# Cervix Whole-slide Image Grading via Multi-instance Learning Network with Tumor Prior-guiding Instance Clustering
+# Cervix Whole-slide Image Grading via a Tumor Prior-Guiding Instance Clustering-incorporated End-to-end Multi-instance Learning Network 
 Pan Huang, Student Member, IEEE, Mingrui Ma, Yi Zhang, Xin Luo, Fellow, IEEE
 
 Our manuscript is in the peer review，and we will completely share the dataset and code after the peer review.
