@@ -7,7 +7,7 @@ Our manuscript is in the peer review，and we will completely share the dataset 
 xxx 
 
 ---
-![image](https://github.com/Baron-Huang/TicMIL/blob/main/Image/Main_Frame_for_TicMIL.png)
+![image](https://github.com/Baron-Huang/TicMIL/blob/main/Image/Main_Frame_for_TicMIL)
 
 
 # Dataset
