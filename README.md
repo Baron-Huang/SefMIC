@@ -1,4 +1,4 @@
-# Tensor Sparse Diagonal-Optimizing Semi-fuzzy Multi-instance Clustering for Pathological Whole-slide Image Interpretable Recognition
+# Tensor Sparse Diagonal-Optimized Semi-fuzzy Multi-instance Clustering for Pathological Whole-slide Image Interpretable Recognition
 Pan Huang, Member, IEEE, Mingrui Ma, Yi Zhang, Senior Member, IEEE, Xin Luo, Fellow, IEEE
 
 Our manuscript is in the peer review, and we will completely share the dataset and code after the peer review.
