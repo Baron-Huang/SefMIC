@@ -4,13 +4,13 @@ Pan Huang, _Member_, _IEEE_, Huifang Yang, Sukun Tian, and Jing Qin, _Senior Mem
 
 ## :fire: News
 
-- [2025/12/15] Our manuscript was submitted to _IEEE Transactions on Medical Imaging_.
+- [2025/12/23] Our manuscript was submitted to _IEEE Transactions on Medical Imaging_.
 
 
 
 ## :rocket: Pipeline
 
-Here's an overview of our **Graph-tensor Game Optimization driven-Instance Dense-subgraph Disentangled Clustering (GGO-IDDC)** method:
+Here's an overview of our **Learnable-tensor Diagonal Sparse Optimization boosted-Instance Semi-fuzzy Clustering (LSSO-ISC)** method:
 
 ![Figure 1](./images/xxx.jpg)
 
