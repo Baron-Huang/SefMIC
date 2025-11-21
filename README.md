@@ -30,7 +30,7 @@ Here's an overview of our **Learnable-tensor Diagonal Sparse Optimization booste
 
 ## 🛠️ Getting Started
 
-To get started with GGO-IDDC, follow the installation instructions below.
+To get started with **LSSO-ISC**, follow the installation instructions below.
 
 1.  Clone the repo
 
